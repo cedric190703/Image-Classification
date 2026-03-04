@@ -1,4 +1,4 @@
-# Ship Image Classification -- CNN (Top 3 / 117 Teams)
+# Image Classification -- CNN (Top 3 / 117 Teams)
 
 ## Overview
 
